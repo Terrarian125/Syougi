@@ -71,3 +71,11 @@ Gote_Bishop_True.png (龍馬)
 Gote_Rook_False.png (飛車) 
 Gote_Rook_True.png (龍王) 
 Gote_King_False.png (玉将)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+■ 今後の更新予定
+・持ち時間
+・対局ログ保存機能
+・オンライン対戦機能
+・AI対戦機能
+・駒のカスタムテーマ機能
+・操作履歴可視化
